@@ -19,6 +19,6 @@ https://www.youtube.com/watch?v=Wx8XU2L2k6Q
 
 4.) go to windows command promb and create folder that you would like to save task.
 
-5.) go to folder that you create to save task and type "git clone https://github.com/guukot/python_training.git"
+5.) go to folder that you create to save task and type "git clone https://github.com/gukot/python_training.git"
 
 enjoy!!!
